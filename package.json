@@ -3,22 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@aws-amplify/predictions": "^1.0.3",
+    "@aws-amplify/predictions": "2.1.6-preview.5316",
     "@emotion/core": "^10.0.16",
     "@emotion/styled": "^10.0.15",
     "@reach/dialog": "^0.2.9",
     "@reach/tabs": "^0.1.6",
     "@rebass/emotion": "^3.2.0",
     "@rebass/forms": "^4.0.5",
-    "aws-amplify": "^1.1.36",
+    "aws-amplify": "5.3.15",
     "aws-amplify-react": "^2.3.12",
-    "formik": "^1.5.8",
+    "formik": "2.0.0-gamma.1",
     "microphone-stream": "^5.0.1",
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-icons": "^3.7.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "5.0.0-next.47"
   },
   "scripts": {
     "start": "react-scripts start",
